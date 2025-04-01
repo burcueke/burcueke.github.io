@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:burcueke@gmail.com"}
   - {title: Decision Sciences, url: "https://www.unh.edu/"}
-  - {title: University of New Hampshire, icon: github, url: "https://paulcollege.unh.edu/decision-sciences-department"}
+  - {title: University of New Hampshire, url: "https://paulcollege.unh.edu/decision-sciences-department"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
