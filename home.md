@@ -6,7 +6,7 @@ layout: page
 <table>
   <tr>
     <td width="200px">
-      <img src="assets/me.jpg" width="180px" style="border-radius: 50%;">
+      <img src="assets/68785690-070C-479C-83E2-56EEBAF23A29.JPG" width="180px" style="border-radius: 50%;">
     </td>
     <td>
 
