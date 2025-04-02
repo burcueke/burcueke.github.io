@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 
-  - {title: Mail, url: "mailto:burcueke@gmail.com"}
+  - {title: Email, url: "mailto:burcueke@gmail.com"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/burcu-eke-rubini/?locale=en_US"}
   - {title: Decision Sciences, url: "https://www.unh.edu/"}
   - {title: University of New Hampshire, url: "https://paulcollege.unh.edu/decision-sciences-department"}
