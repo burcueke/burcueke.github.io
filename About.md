@@ -16,5 +16,7 @@ B.S. in Economics, [Middle East Technical University](https://econ.metu.edu.tr/)
 ### Memberships
 
 ITSA
+
 CWS
+
 ASA
