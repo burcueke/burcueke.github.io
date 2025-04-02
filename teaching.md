@@ -15,3 +15,12 @@ layout: page
  - ADMN 872: Predictive Analytics
  - ADMN 950: Data Driven Decisions
 
+## Undergraduate
+
+ - DS 768: Forecasting Analytics
+ - ADMN 420/510: Business Statistics
+
+## Other Institutions
+
+ - Econometrics ([UC3M](https://economics.uc3m.es/))
+ - Econometria ([UC](https://economia.uc.cl/))
