@@ -23,9 +23,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:burcueke@gmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/burcu-eke-rubini/?locale=en_US"}
   - {title: Decision Sciences, url: "https://www.unh.edu/"}
   - {title: University of New Hampshire, url: "https://paulcollege.unh.edu/decision-sciences-department"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/burcu-eke-rubini/?locale=en_US"}
+  
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
