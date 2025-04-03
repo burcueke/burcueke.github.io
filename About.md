@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/aboutme/"
+title: "Education"
+permalink: "/education/"
 layout: page
 ---
 
@@ -12,11 +12,3 @@ M.S. in Economics,  [Arizona State University](https://wpcarey.asu.edu/economics
 M.A in Economics and Finance, [Southern Illinois University Edwardsville](https://www.siue.edu/business/about/index.shtml)
 
 B.S. in Economics, [Middle East Technical University](https://econ.metu.edu.tr/)
-
-### Memberships
-
-ITSA
-
-CWS
-
-ASA
