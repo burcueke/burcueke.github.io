@@ -36,10 +36,12 @@ Automotive Product Reviews, with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt.
 
 - "Co-opetition in Online Seller Networks: Evidence from Etsy”, Joint Statistical Meetings, *upcoming August 2025* (with
 Ermira Zifla)
+- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Symposium on Statistical Challenges in Electronic Commerce Research, *upcoming June 2025* (presenter
+Ermira Zifla)
 - "Mixed Model Imputation for Missing Data in Social Networks”, Women in Statistics
 and Data Science, October 2024
 - "Co-opetition in Online Seller Networks: Evidence from Etsy”, New England Association
-of Information Systems (NEAIS) Annual Conference, October 2024 (with
+of Information Systems (NEAIS) Annual Conference, October 2024 (presenter
 Ermira Zifla)
 - "Mixed Model Imputation for Missing Data in Social Networks”, Joint Statistical
 Meetings, August 2024
