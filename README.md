@@ -34,33 +34,33 @@ Automotive Product Reviews, with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt.
 
 ### Presentations
 
-- ``Mixed Model Imputation for Missing Data in Social Networks”, Women in Statistics
+- "Mixed Model Imputation for Missing Data in Social Networks”, Women in Statistics
 and Data Science, October 2024
-- ``Co-opetition in Online Seller Networks: Evidence from Etsy”, New England Association
+- "Co-opetition in Online Seller Networks: Evidence from Etsy”, New England Association
 of Information Systems (NEAIS) Annual Conference, October 2024 (with
 Ermira Zifla)
-- ``Mixed Model Imputation for Missing Data in Social Networks”, Joint Statistical
+- "Mixed Model Imputation for Missing Data in Social Networks”, Joint Statistical
 Meetings, August 2024
-- ``ChatGPT usage in code writing”, Roundtable presentation/discussion, Joint Statistical
+- "ChatGPT usage in code writing”, Roundtable presentation/discussion, Joint Statistical
 Meetings, August 2024
-- ``Trade Networks and Trade Diversion”, Joint Statistical Meetings, August 2023
+- "Trade Networks and Trade Diversion”, Joint Statistical Meetings, August 2023
 (with Loris Rubini)
-- ``A Mixed Model Approach for Dynamic Trade Network and Trade Shocks”, Joint
+- "A Mixed Model Approach for Dynamic Trade Network and Trade Shocks”, Joint
 Statistical Meetings, August 2022 (with Loris Rubini)
-- ``Evaluating Health-Related News Stories: A Mixed Approach that Combines Text
+- "Evaluating Health-Related News Stories: A Mixed Approach that Combines Text
 Analysis and Machine Learning“, New England Association of Information Systems
 (NEAIS) Annual Conference, October 2021 (with Ermira Zifla)
-- ``Active Learning in Intro Statistics Classroom: Sampling Variability”, Women in
+- "Active Learning in Intro Statistics Classroom: Sampling Variability”, Women in
 Statistics and Data Science, October 2020
-- ``Q-connectivity network models”, Joint Statistical Meetings, August 2009 (with
+- "Q-connectivity network models”, Joint Statistical Meetings, August 2009 (with
 Sharon Lohr)
-- ``Effects of IMF Related News on Asian Stock Markets”, Missouri Valley Economic
+- "Effects of IMF Related News on Asian Stock Markets”, Missouri Valley Economic
 Association’s Conference, February 2004
 
 #### Invited Talks
 
-- ``Mixed Models and Q-Connectivity Graphs for Children’s Play Networks”,  Department of Mathematics and Statistics, University of Massachusetts Amherst, 2023.
-- ``Missing Data in Social Networks”, Department of Economics, University of New Hampshire, 2017.
-- ``Ego-centric Network Formation”, The Research Center for Social Complexity, Universidad del Desarrollo, Chile, 2015. 
-- ``Multiple Imputation for Binary Data”, Central Bank of Chile, 2014.
-- ``Triadic Network Formations: Statistical Models on Existence of an Edge”, Complex Systems Interdisciplinary Group, Universidad Carlos III de Madrid, Spain, 2011.
+- "Mixed Models and Q-Connectivity Graphs for Children’s Play Networks”,  Department of Mathematics and Statistics, University of Massachusetts Amherst, 2023.
+- "Missing Data in Social Networks”, Department of Economics, University of New Hampshire, 2017.
+- "Ego-centric Network Formation”, The Research Center for Social Complexity, Universidad del Desarrollo, Chile, 2015. 
+- "Multiple Imputation for Binary Data”, Central Bank of Chile, 2014.
+- "Triadic Network Formations: Statistical Models on Existence of an Edge”, Complex Systems Interdisciplinary Group, Universidad Carlos III de Madrid, Spain, 2011.
