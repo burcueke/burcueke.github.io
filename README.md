@@ -34,6 +34,8 @@ Automotive Product Reviews, with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt.
 
 ### Presentations
 
+- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Joint Statistical Meetings, *upcoming August 2025* (with
+Ermira Zifla)
 - "Mixed Model Imputation for Missing Data in Social Networks”, Women in Statistics
 and Data Science, October 2024
 - "Co-opetition in Online Seller Networks: Evidence from Etsy”, New England Association
