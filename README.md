@@ -22,21 +22,22 @@ layout: page
 ### Under Review
 
  - Gravity with Strategic Behavior, with L. Rubini. 
- - Evaluation of International Marketing Research, with O. C. Kutlubay and G. Yalcinkaya.
+ - Evaluation of International Marketing Research, with O. C. Kutlubay and G. Yalcinkaya.(R&R)
  - Imputation for Social Network Data.
 
 ### In Preparation
 
  - Co-opetition in Online Seller Networks: Evidence from Etsy, with E. Zifla.
- - Coding Rrrors with ChatGPT
+ - Coding Errors with ChatGPT
  - From Metrics to Meaning: Leveraging AI to Extract Multidimensional Insights from 
 Automotive Product Reviews, with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt.
 
 ### Presentations
 
-- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Joint Statistical Meetings, *upcoming August 2025* (with
+- "Gravity with Multiple Depenencies", Women in Statistics and Data Science, *upcoming in November 2025* (with Loris Rubini)
+- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Joint Statistical Meetings, August 2025 (with
 Ermira Zifla)
-- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Symposium on Statistical Challenges in Electronic Commerce Research, *upcoming June 2025* (presenter
+- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Symposium on Statistical Challenges in Electronic Commerce Research, June 2025 (presenter
 Ermira Zifla)
 - "Mixed Model Imputation for Missing Data in Social Networks”, Women in Statistics
 and Data Science, October 2024
