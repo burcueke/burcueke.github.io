@@ -23,7 +23,7 @@ I'm a statistician and a researcher focusing on statistical models for complex d
 
 Reach me at: Burcu.EkeRubini@unh.edu 
 
-[CV]([https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EZA0BSqWGIVCrVVKgkIBN84B2G_xF1S3GRJXPKfrweC8ow?e=l2Lmba](https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EZA0BSqWGIVCrVVKgkIBN84B2G_xF1S3GRJXPKfrweC8ow?e=dCSXfC))
+[CV]([https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EZA0BSqWGIVCrVVKgkIBN84B2G_xF1S3GRJXPKfrweC8ow?e=dCSXfC](https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EW3TLndu2AhGqWy6zBDxvl0BOm-OCJjG36FxoThtd4pkhw?e=KWEnTV)))
 
   </div>
 </div>
