@@ -3,12 +3,7 @@ layout: default
 title: "Home"
 ---
 
-
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1 1 200px; text-align: center; padding: 10px;">
-    <img src="assets/68785690-070C-479C-83E2-56EEBAF23A29.JPG" width="180px" style="border-radius: 50%;">
-  </div>
-  <div style="flex: 2 1 300px; padding: 10px;">
+![Burcu Eke Rubini](assets/68785690-070C-479C-83E2-56EEBAF23A29.JPG){: style="width:180px; border-radius:50%;" }
     
 # Hi, I’m Burcu.
 
