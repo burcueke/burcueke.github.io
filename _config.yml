@@ -21,13 +21,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md", title: "Education"}
   - {file: "README.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
+  - {file: "projects.md", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 
   - {title: Email, url: "mailto:burcu.ekerubini@unh.edu"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/burcu-eke-rubini/?locale=en_US"}
-  - {title: Decision Sciences, url: "https://www.unh.edu/"}
-  - {title: University of New Hampshire, url: "https://paulcollege.unh.edu/decision-sciences-department"}
+  - {title: Decision Sciences, url: "https://paulcollege.unh.edu/decision-sciences-department"}
+  - {title: University of New Hampshire, url: "https://www.unh.edu/"}
   
   
 comments:
