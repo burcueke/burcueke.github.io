@@ -25,27 +25,14 @@ I work at the intersection of statistics and data science, currently at the Univ
 - Missing data mechanisms & imputation systems
 - Network formation / relational inference
 - Predictive modeling with calibration, stability & uncertainty
-- Statistical computing (R, Python, SAS)
-
----
-
-## Selected Work
-
-- **Multi-criteria Evaluation of Health News Stories** (*Decision Support Systems, 2024*)  
-  A structured, decision-analytic modeling framework for evaluating health news reliability under uncertainty.
-
-- **Crisis Probability & Policy Intervention Modeling**  
-  Panel-based modeling of foreign exchange, inflation, and output crises incorporating structural breaks and heterogeneous treatment effects.
-
-- **Network & Relational Systems Modeling**  
-  Statistical models for dynamic and dependent multi-agent systems.
+- Statistical computing
 
 ---
 
 ## Leadership
 
-- **President-Elect (2026)**, Caucus for Women in Statistics and Data Science (CWS)
-- **Secretary (Founding Leadership Team)**, International Turkish Statistical Association (ITSA)
+- **President-Elect (2026)**, Caucus for Women in Statistics and Data Science ([CWS](https://cwstat.org/))
+- **Secretary (Founding Leadership Team)**, International Turkish Statistical Association ([ITSA](https://www.itsa-tr.org/))
 
 ---
 
