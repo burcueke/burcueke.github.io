@@ -12,8 +12,8 @@ I develop and apply statistical models for structured, dependent systems, relati
  - Zifla, E., & Rubini, B. E. (2024). Multi-criteria evaluation of health news stories. Decision Support Systems, 180, 114187. [doi:10.1016/j.dss.2024.114187](10.1016/j.dss.2024.114187)
     - A decision-analytic, multi-criteria modeling framework for evaluating health news quality and misinformation under uncertainty.  
     -  Media Reaction:
-     -  AACBS Research Roundup (March 2024) [Using AI to Detect Misleading Medical News](https://www.aacsb.edu/insights/articles/2024/03/research-roundup-march-2024)
-     -  The Boston Globe (by Amanda Gokee), [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.bostonglobe.com/2024/03/07/metro/ai-spotted-fake-health-news-more-readily-than-people-per-unh-study/), 
+       -  AACBS Research Roundup (March 2024) [Using AI to Detect Misleading Medical News](https://www.aacsb.edu/insights/articles/2024/03/research-roundup-march-2024)
+       -  The Boston Globe (by Amanda Gokee), [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.bostonglobe.com/2024/03/07/metro/ai-spotted-fake-health-news-more-readily-than-people-per-unh-study/), 
      -  The Conway Daily Sun, [UNH researchers evaluate online health news using AI](https://www.conwaydailysun.com/berlin_sun/community/health/researchers-evaluate-online-health-news-with-ai/article_b7595462-dcbb-11ee-879e-174e6e422317.html)
      -  MedicalxPress, [Researchers evaluate accuracy of online health news using easily accessible AI](https://medicalxpress.com/news/2024-03-accuracy-online-health-news-easily.html)
      -  Health Leaders Media, [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.healthleadersmedia.com/technology/fake-news-ai-detected-inadequate-medical-news-more-easily-people-unh-study-shows)
