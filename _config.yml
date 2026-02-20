@@ -18,10 +18,11 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "About.md", title: "Education"}
-  - {file: "README.md", title: "Research"}
-  - {file: "teaching.md", title: "Teaching"}
   - {file: "projects.md", title: "Projects"}
+  - {file: "README.md", title: "Research"}
+  - {file: "About.md", title: "Education"}
+  - {file: "teaching.md", title: "Teaching"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 
