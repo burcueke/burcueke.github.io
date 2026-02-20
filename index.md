@@ -3,7 +3,24 @@ layout: default
 title: "Home"
 ---
 
-![Burcu Eke Rubini](assets/68785690-070C-479C-83E2-56EEBAF23A29.JPG){: style="width:180px; border-radius:50%;" }
+<div style="display:flex; align-items:center; gap:20px;">
+
+<img src="assets/68785690-070C-479C-83E2-56EEBAF23A29.JPG"
+     style="width:160px; border-radius:50%;" />
+
+<div>
+
+# Hi, I’m Burcu.
+
+I build statistical modeling frameworks for structured, dependent systems—networks, longitudinal processes, survey/census data, and predictive systems where standard independence assumptions break.
+
+I work at the intersection of statistics and data science, currently at the University of New Hampshire.  
+🔗 [UNH profile](https://paulcollege.unh.edu/person/burcu-eke-rubini)
+
+
+</div>
+</div>
+
     
 # Hi, I’m Burcu.
 
