@@ -13,13 +13,27 @@ layout: default
 
 # Hi, I'm Burcu.
 
+I build statistical modeling frameworks for structured, dependent systems—networks, longitudinal processes, survey/census data, and predictive systems where standard independence assumptions break.
+
 I'm currently an Assistant Professor of Decision Sciences at University of New Hampshire. 🔗 [Visit my UNH profile](https://paulcollege.unh.edu/person/burcu-eke-rubini)
 
 ---
 
-**About Me**
+**Focus**
 
-I'm a statistician and a researcher focusing on statistical models for complex dependent data, social networks, missing data imputation, and machine learning algorithms and applications
+- Modeling under dependence (relational, longitudinal, hierarchical systems)
+- Missing data mechanisms & imputation systems
+- Network formation / relational inference
+- Predictive modeling with calibration, stability & uncertainty
+- Statistical computing
+
+---
+
+**Leadership**
+
+- 2026 President-Elect, Caucus for Women in Statistics and Data Science (CWS)
+
+- Secretary (Founding Leadership Team), International Turkish Statistical Association (ITSA)
 
 Reach me at: Burcu.EkeRubini@unh.edu 
 
