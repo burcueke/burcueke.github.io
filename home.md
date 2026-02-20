@@ -37,7 +37,5 @@ I'm currently an Assistant Professor of Decision Sciences at University of New H
 
 Reach me at: Burcu.EkeRubini@unh.edu 
 
-[CV]([https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EZA0BSqWGIVCrVVKgkIBN84B2G_xF1S3GRJXPKfrweC8ow?e=dCSXfC](https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EW3TLndu2AhGqWy6zBDxvl0BOm-OCJjG36FxoThtd4pkhw?e=KWEnTV))
+[CV](https://universitysystemnh-my.sharepoint.com/:b:/g/personal/be1008_usnh_edu/EW3TLndu2AhGqWy6zBDxvl0BOm-OCJjG36FxoThtd4pkhw?e=KWEnTV)
 
-  </div>
-</div>
