@@ -4,9 +4,13 @@ permalink: "/research/"
 layout: page
 ---
 
+### Research theme
+I develop and apply statistical models for structured, dependent systems, relational networks, longitudinal data, survey/census processes, and predictive systems that require explicit treatment of dependence, missingness, and inferential robustness.
+
 ### Publications
 
  - Zifla, E., & Rubini, B. E. (2024). Multi-criteria evaluation of health news stories. Decision Support Systems, 180, 114187. [doi:10.1016/j.dss.2024.114187](10.1016/j.dss.2024.114187)
+    - A decision-analytic, multi-criteria modeling framework for evaluating health news quality and misinformation under uncertainty.  
     -  Media Reaction:
      -  AACBS Research Roundup (March 2024) [Using AI to Detect Misleading Medical News](https://www.aacsb.edu/insights/articles/2024/03/research-roundup-march-2024)
      -  The Boston Globe (by Amanda Gokee), [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.bostonglobe.com/2024/03/07/metro/ai-spotted-fake-health-news-more-readily-than-people-per-unh-study/), 
@@ -16,8 +20,11 @@ layout: page
      -  UNH Newsroom (by Robbin Ray), [Researchers Evaluate Accuracy of Online Health News Using Easily Accessible AI](https://www.unh.edu/unhtoday/news/release/2024/03/06/researchers-evaluate-accuracy-online-health-news-using-easily-accessible-ai)
      -  UNH Today (by Aaron Sanborn), [Paul College Researchers Use AI to Evaluate Health News Quality](https://www.unh.edu/unhtoday/2024/03/paul-college-researchers-use-ai-evaluate-health-news-quality) 
  - Grujić, J., Eke, B., Cabrales, A., Cuesta, J. A., & Sánchez, A. (2012). Three is a crowd in iterated prisoner's dilemmas: experimental evidence on reciprocal behavior.. Sci Rep, 2, 638. [doi:10.1038/srep00638](10.1038/srep00638)
+    - Experimental + statistical modeling of dynamic reciprocal behavior in multi-agent systems (dependence & feedback)  
  - Eke, B., & Kutan, A. M. (2009). Are International Monetary Fund Programs Effective?: Evidence from East European Countries. Eastern European Economics, 47(1), 5-28. [doi:10.2753/eee0012-8775470101](10.2753/eee0012-8775470101)
+    - Multi-method sensitivity/robustness analysis of policy effectiveness using cross-country panel data; stability of inferences under model assumptions and shocks.
  - Eke, B., & Kutan, A. M. (2005). IMF-Supported Programmes in Transition Economies: Are They Effective?. Comparative Economic Studies, 47(1), 23-40. [doi:10.1057/palgrave.ces.8100090](10.1057/palgrave.ces.8100090)
+    - Crisis probability modeling to evaluate intervention effects; heterogeneity + regime shifts/structural breaks 
 
 ### Under Review
 
