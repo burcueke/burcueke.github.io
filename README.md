@@ -10,9 +10,9 @@ layout: page
     -  Media Reaction:
      -  AACBS Research Roundup (March 2024) [Using AI to Detect Misleading Medical News](https://www.aacsb.edu/insights/articles/2024/03/research-roundup-march-2024)
      -  The Boston Globe (by Amanda Gokee), [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.bostonglobe.com/2024/03/07/metro/ai-spotted-fake-health-news-more-readily-than-people-per-unh-study/), 
-     -  The Conway Daily Sun, [UNH researchers evaluate online health news using AI]{https://www.conwaydailysun.com/berlin_sun/community/health/researchers-evaluate-online-health-news-with-ai/article_b7595462-dcbb-11ee-879e-174e6e422317.html}
+     -  The Conway Daily Sun, [UNH researchers evaluate online health news using AI](https://www.conwaydailysun.com/berlin_sun/community/health/researchers-evaluate-online-health-news-with-ai/article_b7595462-dcbb-11ee-879e-174e6e422317.html)
      -  MedicalxPress, [Researchers evaluate accuracy of online health news using easily accessible AI](https://medicalxpress.com/news/2024-03-accuracy-online-health-news-easily.html)
-     -  Health Leaders Media , [Fake news? AI detected inadequate medical news more easily than people, UNH study shows] (https://www.healthleadersmedia.com/technology/fake-news-ai-detected-inadequate-medical-news-more-easily-people-unh-study-shows)
+     -  Health Leaders Media, [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.healthleadersmedia.com/technology/fake-news-ai-detected-inadequate-medical-news-more-easily-people-unh-study-shows)
      -  UNH Newsroom (by Robbin Ray), [Researchers Evaluate Accuracy of Online Health News Using Easily Accessible AI](https://www.unh.edu/unhtoday/news/release/2024/03/06/researchers-evaluate-accuracy-online-health-news-using-easily-accessible-ai)
      -  UNH Today (by Aaron Sanborn), [Paul College Researchers Use AI to Evaluate Health News Quality](https://www.unh.edu/unhtoday/2024/03/paul-college-researchers-use-ai-evaluate-health-news-quality) 
  - Grujić, J., Eke, B., Cabrales, A., Cuesta, J. A., & Sánchez, A. (2012). Three is a crowd in iterated prisoner's dilemmas: experimental evidence on reciprocal behavior.. Sci Rep, 2, 638. [doi:10.1038/srep00638](10.1038/srep00638)
@@ -34,7 +34,6 @@ Automotive Product Reviews, with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt.
 
 ### Presentations
 
-- "Gravity with Multiple Depenencies", Women in Statistics and Data Science, *upcoming in November 2025* (with Loris Rubini)
 - "Co-opetition in Online Seller Networks: Evidence from Etsy”, Joint Statistical Meetings, August 2025 (with
 Ermira Zifla)
 - "Co-opetition in Online Seller Networks: Evidence from Etsy”, Symposium on Statistical Challenges in Electronic Commerce Research, June 2025 (presenter
