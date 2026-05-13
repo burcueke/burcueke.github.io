@@ -4,74 +4,108 @@ permalink: "/research/"
 layout: page
 ---
 
-### Research theme
-I develop and apply statistical models for structured, dependent systems, relational networks, longitudinal data, survey/census processes, and predictive systems that require explicit treatment of dependence, missingness, and inferential robustness.
+## Quick Navigation
+- [Research Theme](#research-theme)
+- [Publications](#publications)
+- [Under Review](#under-review)
+- [In Preparation](#in-preparation)
+- [Presentations](#presentations)
+- [Invited Talks](#invited-talks)
 
-### Publications
+---
 
- - Zifla, E., & Rubini, B. E. (2024). Multi-criteria evaluation of health news stories. Decision Support Systems, 180, 114187. [doi:10.1016/j.dss.2024.114187](10.1016/j.dss.2024.114187)
-    - A decision-analytic, multi-criteria modeling framework for evaluating health news quality and misinformation under uncertainty.  
-    -  Media Reaction:
-       -  AACBS Research Roundup (March 2024) [Using AI to Detect Misleading Medical News](https://www.aacsb.edu/insights/articles/2024/03/research-roundup-march-2024)
-       -  The Boston Globe (by Amanda Gokee), [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.bostonglobe.com/2024/03/07/metro/ai-spotted-fake-health-news-more-readily-than-people-per-unh-study/), 
-       -  The Conway Daily Sun, [UNH researchers evaluate online health news using AI](https://www.conwaydailysun.com/berlin_sun/community/health/researchers-evaluate-online-health-news-with-ai/article_b7595462-dcbb-11ee-879e-174e6e422317.html)
-       -  MedicalxPress, [Researchers evaluate accuracy of online health news using easily accessible AI](https://medicalxpress.com/news/2024-03-accuracy-online-health-news-easily.html)
-       -  Health Leaders Media, [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.healthleadersmedia.com/technology/fake-news-ai-detected-inadequate-medical-news-more-easily-people-unh-study-shows)
-       -  UNH Newsroom (by Robbin Ray), [Researchers Evaluate Accuracy of Online Health News Using Easily Accessible AI](https://www.unh.edu/unhtoday/news/release/2024/03/06/researchers-evaluate-accuracy-online-health-news-using-easily-accessible-ai)
-       -  UNH Today (by Aaron Sanborn), [Paul College Researchers Use AI to Evaluate Health News Quality](https://www.unh.edu/unhtoday/2024/03/paul-college-researchers-use-ai-evaluate-health-news-quality) 
- - Grujić, J., Eke, B., Cabrales, A., Cuesta, J. A., & Sánchez, A. (2012). Three is a crowd in iterated prisoner's dilemmas: experimental evidence on reciprocal behavior.. Sci Rep, 2, 638. [doi:10.1038/srep00638](10.1038/srep00638)
-    - Experimental + statistical modeling of dynamic reciprocal behavior in multi-agent systems (dependence & feedback)  
- - Eke, B., & Kutan, A. M. (2009). Are International Monetary Fund Programs Effective?: Evidence from East European Countries. Eastern European Economics, 47(1), 5-28. [doi:10.2753/eee0012-8775470101](10.2753/eee0012-8775470101)
-    - Multi-method sensitivity/robustness analysis of policy effectiveness using cross-country panel data; stability of inferences under model assumptions and shocks.
- - Eke, B., & Kutan, A. M. (2005). IMF-Supported Programmes in Transition Economies: Are They Effective?. Comparative Economic Studies, 47(1), 23-40. [doi:10.1057/palgrave.ces.8100090](10.1057/palgrave.ces.8100090)
-    - Crisis probability modeling to evaluate intervention effects; heterogeneity + regime shifts/structural breaks 
+## Research Theme
 
-### Under Review
+I develop and apply statistical models for structured, dependent systems, relational networks, longitudinal data, survey/census processes, and predictive systems that require explicit treatment of dependencies and complexity. My work bridges econometrics, network science, and decision analytics with applications in health policy, trade dynamics, and online platforms.
 
- - Gravity with Strategic Behavior, with L. Rubini. 
- - Evaluation of International Marketing Research, with O. C. Kutlubay and G. Yalcinkaya.(R&R)
- - Imputation for Social Network Data.
+**Key Research Areas:** Network Analysis • Mixed Models & Imputation • Policy Evaluation • AI & Text Analysis • Multi-Criteria Decision Making
 
-### In Preparation
+---
 
- - Co-opetition in Online Seller Networks: Evidence from Etsy, with E. Zifla.
- - Coding Errors with ChatGPT
- - From Metrics to Meaning: Leveraging AI to Extract Multidimensional Insights from 
-Automotive Product Reviews, with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt.
+## Publications
 
-### Presentations
+### 2024
 
-- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Joint Statistical Meetings, August 2025 (with
-Ermira Zifla)
-- "Co-opetition in Online Seller Networks: Evidence from Etsy”, Symposium on Statistical Challenges in Electronic Commerce Research, June 2025 (presenter
-Ermira Zifla)
-- "Mixed Model Imputation for Missing Data in Social Networks”, Women in Statistics
-and Data Science, October 2024
-- "Co-opetition in Online Seller Networks: Evidence from Etsy”, New England Association
-of Information Systems (NEAIS) Annual Conference, October 2024 (presenter
-Ermira Zifla)
-- "Mixed Model Imputation for Missing Data in Social Networks”, Joint Statistical
-Meetings, August 2024
-- "ChatGPT usage in code writing”, Roundtable presentation/discussion, Joint Statistical
-Meetings, August 2024
-- "Trade Networks and Trade Diversion”, Joint Statistical Meetings, August 2023
-(with Loris Rubini)
-- "A Mixed Model Approach for Dynamic Trade Network and Trade Shocks”, Joint
-Statistical Meetings, August 2022 (with Loris Rubini)
-- "Evaluating Health-Related News Stories: A Mixed Approach that Combines Text
-Analysis and Machine Learning“, New England Association of Information Systems
-(NEAIS) Annual Conference, October 2021 (with Ermira Zifla)
-- "Active Learning in Intro Statistics Classroom: Sampling Variability”, Women in
-Statistics and Data Science, October 2020
-- "Q-connectivity network models”, Joint Statistical Meetings, August 2009 (with
-Sharon Lohr)
-- "Effects of IMF Related News on Asian Stock Markets”, Missouri Valley Economic
-Association’s Conference, February 2004
+- **Zifla, E., & Rubini, B. E. (2024).** Multi-criteria evaluation of health news stories. *Decision Support Systems*, 180, 114187. [https://doi.org/10.1016/j.dss.2024.114187](https://doi.org/10.1016/j.dss.2024.114187)
+  - A decision-analytic, multi-criteria modeling framework for evaluating health news quality and misinformation under uncertainty.  
+  - **Media Reaction:**
+    - **AACBS Research Roundup** (March 2024): [Using AI to Detect Misleading Medical News](https://www.aacsb.edu/insights/articles/2024/03/research-roundup-march-2024)
+    - **The Boston Globe** (by Amanda Gokee): [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.bostonglobe.com/2024/03/07/metro/ai-spotted-fake-health-news/)
+    - **The Conway Daily Sun**: [UNH researchers evaluate online health news using AI](https://www.conwaydailysun.com/berlin_sun/community/health/researchers-evaluate-online-health-news-with-ai/)
+    - **MedicalxPress**: [Researchers evaluate accuracy of online health news using easily accessible AI](https://medicalxpress.com/news/2024-03-accuracy-online-health-news-easily.html)
+    - **Health Leaders Media**: [Fake news? AI detected inadequate medical news more easily than people, UNH study shows](https://www.healthleadersmedia.com/technology/fake-news-ai-detected-inadequate-medical-news-more-easily-people-unh-study)
+    - **UNH Newsroom** (by Robbin Ray): [Researchers Evaluate Accuracy of Online Health News Using Easily Accessible AI](https://www.unh.edu/unhtoday/news/release/2024/03/06/researchers-evaluate-accuracy-online-health-news-using-easily-accessible-ai)
+    - **UNH Today** (by Aaron Sanborn): [Paul College Researchers Use AI to Evaluate Health News Quality](https://www.unh.edu/unhtoday/2024/03/paul-college-researchers-use-ai-evaluate-health-news-qual)
 
-#### Invited Talks
+### 2012
 
-- "Mixed Models and Q-Connectivity Graphs for Children’s Play Networks”,  Department of Mathematics and Statistics, University of Massachusetts Amherst, 2023.
-- "Missing Data in Social Networks”, Department of Economics, University of New Hampshire, 2017.
-- "Ego-centric Network Formation”, The Research Center for Social Complexity, Universidad del Desarrollo, Chile, 2015. 
-- "Multiple Imputation for Binary Data”, Central Bank of Chile, 2014.
-- "Triadic Network Formations: Statistical Models on Existence of an Edge”, Complex Systems Interdisciplinary Group, Universidad Carlos III de Madrid, Spain, 2011.
+- **Grujić, J., Eke, B., Cabrales, A., Cuesta, J. A., & Sánchez, A. (2012).** Three is a crowd in iterated prisoner's dilemmas: experimental evidence on reciprocal behavior. *Scientific Reports*, 2, 638. [https://doi.org/10.1038/srep00638](https://doi.org/10.1038/srep00638)
+  - Experimental and statistical modeling of dynamic reciprocal behavior in multi-agent systems (dependence & feedback)
+
+### 2009
+
+- **Eke, B., & Kutan, A. M. (2009).** Are International Monetary Fund Programs Effective?: Evidence from East European Countries. *Eastern European Economics*, 47(1), 5-28. [https://doi.org/10.2753/eee0012-8775470101](https://doi.org/10.2753/eee0012-8775470101)
+  - Multi-method sensitivity/robustness analysis of policy effectiveness using cross-country panel data; stability of inferences under model assumptions and shocks.
+
+### 2005
+
+- **Eke, B., & Kutan, A. M. (2005).** IMF-Supported Programmes in Transition Economies: Are They Effective?. *Comparative Economic Studies*, 47(1), 23-40. [https://doi.org/10.1057/palgrave.ces.8100090](https://doi.org/10.1057/palgrave.ces.8100090)
+  - Crisis probability modeling to evaluate intervention effects; heterogeneity + regime shifts/structural breaks
+
+---
+
+## Under Review
+
+- **Gravity with Strategic Behavior** (with L. Rubini)
+- **Evaluation of International Marketing Research** (with O. C. Kutlubay and G. Yalcinkaya) — R&R
+- **Imputation for Social Network Data**
+
+---
+
+## In Preparation
+
+- **Co-opetition in Online Seller Networks: Evidence from Etsy** (with E. Zifla)
+- **Coding Errors with ChatGPT**
+- **From Metrics to Meaning: Leveraging AI to Extract Multidimensional Insights from Automotive Product Reviews** (with G. Yalcinkaya, O.C. Kutlubay, S. Yeniyurt)
+
+---
+
+## Presentations
+
+### Upcoming (2025)
+
+- "Co-opetition in Online Seller Networks: Evidence from Etsy" — *Joint Statistical Meetings*, August 2025 (with Ermira Zifla)
+- "Co-opetition in Online Seller Networks: Evidence from Etsy" — *Symposium on Statistical Challenges in Electronic Commerce Research*, June 2025 (presenter: Ermira Zifla)
+
+### 2024
+
+- "Mixed Model Imputation for Missing Data in Social Networks" — *Women in Statistics and Data Science*, October 2024
+- "Co-opetition in Online Seller Networks: Evidence from Etsy" — *New England Association of Information Systems (NEAIS) Annual Conference*, October 2024 (presenter: Ermira Zifla)
+- "Mixed Model Imputation for Missing Data in Social Networks" — *Joint Statistical Meetings*, August 2024
+- "ChatGPT usage in code writing" — Roundtable presentation/discussion, *Joint Statistical Meetings*, August 2024
+
+### 2023–2020
+
+- "Trade Networks and Trade Diversion" — *Joint Statistical Meetings*, August 2023 (with Loris Rubini)
+- "A Mixed Model Approach for Dynamic Trade Network and Trade Shocks" — *Joint Statistical Meetings*, August 2022 (with Loris Rubini)
+- "Evaluating Health-Related News Stories: A Mixed Approach that Combines Text Analysis and Machine Learning" — *New England Association of Information Systems (NEAIS) Annual Conference*, October 2021 (with Ermira Zifla)
+- "Active Learning in Intro Statistics Classroom: Sampling Variability" — *Women in Statistics and Data Science*, October 2020
+
+### 2009–2004
+
+- "Q-connectivity network models" — *Joint Statistical Meetings*, August 2009 (with Sharon Lohr)
+- "Effects of IMF Related News on Asian Stock Markets" — *Missouri Valley Economic Association's Conference*, February 2004
+
+---
+
+## Invited Talks
+
+- **"Mixed Models and Q-Connectivity Graphs for Children's Play Networks"** — Department of Mathematics and Statistics, University of Massachusetts Amherst, 2023
+
+- **"Missing Data in Social Networks"** — Department of Economics, University of New Hampshire, 2017
+
+- **"Ego-centric Network Formation"** — The Research Center for Social Complexity, Universidad del Desarrollo, Chile, 2015
+
+- **"Multiple Imputation for Binary Data"** — Central Bank of Chile, 2014
+
+- **"Triadic Network Formations: Statistical Models on Existence of an Edge"** — Complex Systems Interdisciplinary Group, Universidad Carlos III de Madrid, Spain, 2011
