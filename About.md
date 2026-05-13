@@ -4,9 +4,6 @@ permalink: "/education/"
 layout: page
 ---
 
-## About My Background
-
-I hold multiple advanced degrees in economics, finance, and statistics, with a strong focus on quantitative analysis and econometric modeling. My interdisciplinary background combines rigorous economic theory with advanced statistical methodologies.
 
 ### Education
 
