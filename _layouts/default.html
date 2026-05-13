@@ -4,6 +4,7 @@
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <meta charset="{{ site.encoding }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <meta name="author" content="{{ page.author | default: site.author | escape }}">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
@@ -33,6 +34,25 @@
   {% if site.comments.isso_domain and page.layout == "post" %}
   <script data-isso="http://{{ site.comments.isso_domain }}"
           src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>
+  {% endif %}
+
+  <!-- Schema.org markup for SEO -->
+  {% if page.layout == "default" and page.title == "Home" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Burcu Eke Rubini",
+    "url": "{{ site.url }}",
+    "email": "Burcu.EkeRubini@unh.edu",
+    "jobTitle": "Statistician and Data Scientist",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University of New Hampshire",
+      "url": "https://paulcollege.unh.edu"
+    }
+  }
+  </script>
   {% endif %}
 </head>
 
