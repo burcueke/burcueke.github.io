@@ -24,7 +24,6 @@ I develop and apply statistical models for structured, dependent systems, relati
 
 ## Publications
 
-### 2024
 
 - **Zifla, E., & Rubini, B. E. (2024).** Multi-criteria evaluation of health news stories. *Decision Support Systems*, 180, 114187. [https://doi.org/10.1016/j.dss.2024.114187](https://doi.org/10.1016/j.dss.2024.114187)
   - A decision-analytic, multi-criteria modeling framework for evaluating health news quality and misinformation under uncertainty.  
@@ -37,17 +36,14 @@ I develop and apply statistical models for structured, dependent systems, relati
     - **UNH Newsroom** (by Robbin Ray): [Researchers Evaluate Accuracy of Online Health News Using Easily Accessible AI](https://www.unh.edu/unhtoday/news/release/2024/03/06/researchers-evaluate-accuracy-online-health-news-using-easily-accessible-ai)
     - **UNH Today** (by Aaron Sanborn): [Paul College Researchers Use AI to Evaluate Health News Quality](https://www.unh.edu/unhtoday/2024/03/paul-college-researchers-use-ai-evaluate-health-news-qual)
 
-### 2012
 
 - **Grujić, J., Eke, B., Cabrales, A., Cuesta, J. A., & Sánchez, A. (2012).** Three is a crowd in iterated prisoner's dilemmas: experimental evidence on reciprocal behavior. *Scientific Reports*, 2, 638. [https://doi.org/10.1038/srep00638](https://doi.org/10.1038/srep00638)
   - Experimental and statistical modeling of dynamic reciprocal behavior in multi-agent systems (dependence & feedback)
 
-### 2009
 
 - **Eke, B., & Kutan, A. M. (2009).** Are International Monetary Fund Programs Effective?: Evidence from East European Countries. *Eastern European Economics*, 47(1), 5-28. [https://doi.org/10.2753/eee0012-8775470101](https://doi.org/10.2753/eee0012-8775470101)
   - Multi-method sensitivity/robustness analysis of policy effectiveness using cross-country panel data; stability of inferences under model assumptions and shocks.
 
-### 2005
 
 - **Eke, B., & Kutan, A. M. (2005).** IMF-Supported Programmes in Transition Economies: Are They Effective?. *Comparative Economic Studies*, 47(1), 23-40. [https://doi.org/10.1057/palgrave.ces.8100090](https://doi.org/10.1057/palgrave.ces.8100090)
   - Crisis probability modeling to evaluate intervention effects; heterogeneity + regime shifts/structural breaks
@@ -72,27 +68,16 @@ I develop and apply statistical models for structured, dependent systems, relati
 
 ## Presentations
 
-### Upcoming (2025)
-
 - "Co-opetition in Online Seller Networks: Evidence from Etsy" — *Joint Statistical Meetings*, August 2025 (with Ermira Zifla)
 - "Co-opetition in Online Seller Networks: Evidence from Etsy" — *Symposium on Statistical Challenges in Electronic Commerce Research*, June 2025 (presenter: Ermira Zifla)
-
-### 2024
-
 - "Mixed Model Imputation for Missing Data in Social Networks" — *Women in Statistics and Data Science*, October 2024
 - "Co-opetition in Online Seller Networks: Evidence from Etsy" — *New England Association of Information Systems (NEAIS) Annual Conference*, October 2024 (presenter: Ermira Zifla)
 - "Mixed Model Imputation for Missing Data in Social Networks" — *Joint Statistical Meetings*, August 2024
 - "ChatGPT usage in code writing" — Roundtable presentation/discussion, *Joint Statistical Meetings*, August 2024
-
-### 2023–2020
-
 - "Trade Networks and Trade Diversion" — *Joint Statistical Meetings*, August 2023 (with Loris Rubini)
 - "A Mixed Model Approach for Dynamic Trade Network and Trade Shocks" — *Joint Statistical Meetings*, August 2022 (with Loris Rubini)
 - "Evaluating Health-Related News Stories: A Mixed Approach that Combines Text Analysis and Machine Learning" — *New England Association of Information Systems (NEAIS) Annual Conference*, October 2021 (with Ermira Zifla)
 - "Active Learning in Intro Statistics Classroom: Sampling Variability" — *Women in Statistics and Data Science*, October 2020
-
-### 2009–2004
-
 - "Q-connectivity network models" — *Joint Statistical Meetings*, August 2009 (with Sharon Lohr)
 - "Effects of IMF Related News on Asian Stock Markets" — *Missouri Valley Economic Association's Conference*, February 2004
 
